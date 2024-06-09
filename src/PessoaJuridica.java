@@ -15,6 +15,7 @@ public class PessoaJuridica extends Cliente {
         this.setor = setor;
     }
 
+
     @Override
     public String toString() {
         String PJstr = "--------------- PJ ---------------" +
